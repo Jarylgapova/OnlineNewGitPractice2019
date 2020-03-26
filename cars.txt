@@ -3,4 +3,5 @@ BMW 3
 BMW X6
 Audi R8
 Tesla
-Mersedes S500
+Mercedes S500
+Kia Optima
