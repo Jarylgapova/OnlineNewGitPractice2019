@@ -2,3 +2,5 @@ Titanic
 Lord of the Rings
 Frozen
 Happy Potter
+Avatar
+Home Alone
